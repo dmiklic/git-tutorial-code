@@ -23,6 +23,8 @@ Clone this repository by running the following command:
 
       cd python
       ./lust.py
+nestonesto
 Maintainers:
+izazivamo konflikt
     Mirko
-
+Neka netrivijalna promjena
